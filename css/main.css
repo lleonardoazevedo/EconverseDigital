@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*primeira imagem */
+
+.img1 {
+    position: absolute;
+    width: 1280px;
+    height: 490px;
+    left: 0px;
+    top: 134px;
+}
+
+
+/* O que você está buscando? */
+
+.busca {
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 314px;
+    top: 59px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    /* GRAY 1 */
+    color: #9F9F9F;
+}
+
+
+/* Rectangle 102 */
+
+.botao {
+    position: absolute;
+    width: 657px;
+    height: 48px;
+    left: 290px;
+    top: 45px;
+    /* BACKGROUND */
+    background: #FEF6E7;
+    border-radius: 10px;
+    border-none;
+}
+
+.logo {
+    position: absolute;
+    width: 178px;
+    height: 46px;
+    left: 56px;
+    top: 46px;
+}
+
+.menu {
+    position: absolute;
+    width: 1280px;
+    height: 40px;
+    left: 0px;
+    top: 105px;
+    /* WHITE */
+    background: #FFFFFF;
+    /* SHADOW */
+    box-shadow: 0px 8px 16px rgba(179, 134, 0, 0.12);
+    border-radius: 0px 0px 10px 10px;
+}
+
+
+/* As melhores guias para os melhores passeios. */
+
+.h2 {
+    position: absolute;
+    width: 387px;
+    height: 180px;
+    left: 144px;
+    top: 253px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 60px;
+    /* WHITE */
+    color: #FFFFFF;
+}
