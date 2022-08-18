@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+.header {
+    display: inline;
+    list-style: none;
+    font-size: 14px;
+    color: #9F9F9F;
+}
+
+.linha {
+    top: 28px;
+    width: 1520px;
+    position: absolute;
+    height: 90px;
+}
+
+.logo {
+    position: absolute;
+    width: 178px;
+    height: 46px;
+    left: 56px;
+    top: 46px;
+}
+
+
+/*primeira imagem */
+
+.img-capa {
+    position: absolute;
+    width: 1525px;
+    height: 550px;
+    left: 0px;
+    top: 154px;
+}
+
+
+/* As melhores guias para os melhores passeios. */
+
+.h2 {
+    position: absolute;
+    width: 387px;
+    height: 180px;
+    left: 210px;
+    top: 253px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 60px;
+    /* WHITE */
+    color: #FFFFFF;
+}
+
+.h3 {
+    /* Categorias */
+    position: absolute;
+    width: 170px;
+    height: 48px;
+    left: 56px;
+    top: 704px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+    /* BLACK */
+    color: #4D4D4D;
+}
+
+.btn-confira {
+    box-sizing: border-box;
+    position: absolute;
+    width: 131px;
+    height: 48px;
+    left: 205px;
+    top: 500px;
+    /* COR PRINCIPAL */
+    background: #FBB900;
+    /* COR SUPORTE */
+    border: 1px solid #F0D075;
+    border-radius: 10px;
+}
+
+
+/* O que você está buscando? */
+
+.btn-busca {
+    position: absolute;
+    width: 657px;
+    height: 48px;
+    left: 290px;
+    top: 45px;
+    /* BACKGROUND */
+    background: #FEF6E7;
+    border-radius: 10px;
+    border: none;
+}
+
+.txt-botao {
+    color: #9F9F9F;
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    width: 200px;
+    height: 10px;
+    left: 20px;
+    top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    line-height: 21px;
+    ;
+}
+
+.menu-h {
+    position: absolute;
+    display: inline;
+    justify-content: space-evenly;
+    color: #9F9F9F;
+    width: 1280px;
+    height: 40px;
+    left: 0px;
+    top: 105px;
+    background: #FFFFFF;
+    list-style: none;
+    box-shadow: 0px 8px 16px rgba(179, 134, 0, 0.12);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.menu-h li {
+    display: inline;
+    justify-content: space-evenly;
+}
+
+.menu-h li a {
+    display: inline;
+    justify-content: space-evenly;
+}
